@@ -234,7 +234,7 @@ Next, the application creates a new note object with the help of the <i>Note</i>
 const note = new Note({
   content: 'HTML is Easy',
   date: new Date(),
-  important: false,
+  important: true,
 })
 ```
 
